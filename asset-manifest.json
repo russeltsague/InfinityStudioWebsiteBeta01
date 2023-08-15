@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/InfinityStudioWebsiteBeta01/static/css/main.e2d1b554.css",
-    "main.js": "/InfinityStudioWebsiteBeta01/static/js/main.6a8bec2e.js",
+    "main.css": "/InfinityStudioWebsiteBeta01/static/css/main.9c5c95b1.css",
+    "main.js": "/InfinityStudioWebsiteBeta01/static/js/main.654fe80b.js",
     "static/media/light-hero-bg.jpg": "/InfinityStudioWebsiteBeta01/static/media/light-hero-bg.c9bce72c69f86814eba4.jpg",
     "static/media/remixicon.svg?t=1590207869815": "/InfinityStudioWebsiteBeta01/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/about-us.jpg": "/InfinityStudioWebsiteBeta01/static/media/about-us.9446fb0339368a482c2c.jpg",
@@ -26,11 +26,11 @@
     "static/media/slick.ttf": "/InfinityStudioWebsiteBeta01/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/InfinityStudioWebsiteBeta01/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/InfinityStudioWebsiteBeta01/index.html",
-    "main.e2d1b554.css.map": "/InfinityStudioWebsiteBeta01/static/css/main.e2d1b554.css.map",
-    "main.6a8bec2e.js.map": "/InfinityStudioWebsiteBeta01/static/js/main.6a8bec2e.js.map"
+    "main.9c5c95b1.css.map": "/InfinityStudioWebsiteBeta01/static/css/main.9c5c95b1.css.map",
+    "main.654fe80b.js.map": "/InfinityStudioWebsiteBeta01/static/js/main.654fe80b.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2d1b554.css",
-    "static/js/main.6a8bec2e.js"
+    "static/css/main.9c5c95b1.css",
+    "static/js/main.654fe80b.js"
   ]
 }
