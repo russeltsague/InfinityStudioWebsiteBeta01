@@ -1,8 +1,14 @@
 {
   "files": {
-    "main.css": "/InfinityStudioWebsiteBeta01/static/css/main.9c5c95b1.css",
-    "main.js": "/InfinityStudioWebsiteBeta01/static/js/main.654fe80b.js",
-    "static/media/light-hero-bg.jpg": "/InfinityStudioWebsiteBeta01/static/media/light-hero-bg.c9bce72c69f86814eba4.jpg",
+    "main.css": "/InfinityStudioWebsiteBeta01/static/css/main.e58f81d1.css",
+    "main.js": "/InfinityStudioWebsiteBeta01/static/js/main.e34e86d2.js",
+    "static/media/goldstein.jpg": "/InfinityStudioWebsiteBeta01/static/media/goldstein.2dda27396b42f059752e.jpg",
+    "static/media/car-video-1.mp4": "/InfinityStudioWebsiteBeta01/static/media/car-video-1.78a4bdf8c10908096130.mp4",
+    "static/media/aragon.jpg": "/InfinityStudioWebsiteBeta01/static/media/aragon.bd8e9060fc0d51b53614.jpg",
+    "static/media/circuit.jpg": "/InfinityStudioWebsiteBeta01/static/media/circuit.dc09b7b1454827412ca0.jpg",
+    "static/media/IA hand.jpg": "/InfinityStudioWebsiteBeta01/static/media/IA hand.9158a9801190ffcd7aa2.jpg",
+    "static/media/close.jpg": "/InfinityStudioWebsiteBeta01/static/media/close.c3791ec1d46a63d9efb3.jpg",
+    "static/media/robot.jpg": "/InfinityStudioWebsiteBeta01/static/media/robot.558a2887df33081af6fe.jpg",
     "static/media/remixicon.svg?t=1590207869815": "/InfinityStudioWebsiteBeta01/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/about-us.jpg": "/InfinityStudioWebsiteBeta01/static/media/about-us.9446fb0339368a482c2c.jpg",
     "static/media/remixicon.eot?t=1590207869815": "/InfinityStudioWebsiteBeta01/static/media/remixicon.5cb99e6cba5a4619063f.eot",
@@ -19,18 +25,21 @@
     "static/media/video.png": "/InfinityStudioWebsiteBeta01/static/media/video.738b5aed181ea69d0960.png",
     "static/media/hero-img.png": "/InfinityStudioWebsiteBeta01/static/media/hero-img.d253c017c57be8422f18.png",
     "static/media/team-01.png": "/InfinityStudioWebsiteBeta01/static/media/team-01.b05696393eabab46199e.png",
+    "static/media/project-3.jpg": "/InfinityStudioWebsiteBeta01/static/media/project-3.3a64f2a3836506b77300.jpg",
+    "static/media/project-1.jpg": "/InfinityStudioWebsiteBeta01/static/media/project-1.aaed7ce0f56f5f92334f.jpg",
     "static/media/article.png": "/InfinityStudioWebsiteBeta01/static/media/article.1a0e78634738b71d43ca.png",
+    "static/media/project-2.jpg": "/InfinityStudioWebsiteBeta01/static/media/project-2.61e01e59e1648abc572c.jpg",
     "static/media/case-study.png": "/InfinityStudioWebsiteBeta01/static/media/case-study.e2b9562a6c09692e288e.png",
     "static/media/slick.svg": "/InfinityStudioWebsiteBeta01/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/InfinityStudioWebsiteBeta01/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/InfinityStudioWebsiteBeta01/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/InfinityStudioWebsiteBeta01/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/InfinityStudioWebsiteBeta01/index.html",
-    "main.9c5c95b1.css.map": "/InfinityStudioWebsiteBeta01/static/css/main.9c5c95b1.css.map",
-    "main.654fe80b.js.map": "/InfinityStudioWebsiteBeta01/static/js/main.654fe80b.js.map"
+    "main.e58f81d1.css.map": "/InfinityStudioWebsiteBeta01/static/css/main.e58f81d1.css.map",
+    "main.e34e86d2.js.map": "/InfinityStudioWebsiteBeta01/static/js/main.e34e86d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c5c95b1.css",
-    "static/js/main.654fe80b.js"
+    "static/css/main.e58f81d1.css",
+    "static/js/main.e34e86d2.js"
   ]
 }
